@@ -12,16 +12,16 @@ Ingredient
 
 Install
 --------
-1.Install Energia on PC or Mac.
-2.Copy all lines of ConnectedLaunchpad-MQTT.ino  
-3.Paste to new file in Energia.  
-4.Change deviceId at line 14 from Change-to-your-mac-address to your mac address of Connected Launchpad.  
-5.Select LaunchPad(Tiva C) /w tm4c129(120MHz) from Tools/Board.  
-6.Connect LaunchPad to USB port.  
-7.Select port from Tools/Port.  
-8.Click upload button.  
-9.Open [http://quickstart.internetofthings.ibmcloud.com/#/device/](http://quickstart.internetofthings.ibmcloud.com/#/device/)  
-10.Enter your mac address to see temperature and status or user swiches(PJ1, PJ2).
+1. Install Energia on PC or Mac.
+2. Copy all lines of ConnectedLaunchpad-MQTT.ino  
+3. Paste to new file in Energia.  
+4. Change deviceId at line 14 from Change-to-your-mac-address to your mac address of Connected Launchpad.  
+5. Select LaunchPad(Tiva C) /w tm4c129(120MHz) from Tools/Board.  
+6. Connect LaunchPad to USB port.  
+7. Select port from Tools/Port.  
+8. Click upload button.  
+9. Open [http://quickstart.internetofthings.ibmcloud.com/#/device/](http://quickstart.internetofthings.ibmcloud.com/#/device/)  
+10. Enter your mac address to see temperature and status or user swiches(PJ1, PJ2).
 
 Known Issue
 --------
