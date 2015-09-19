@@ -32,10 +32,6 @@ Advanced Settings
 --------
 * You may change to see Digital Read from PE_0 etc., instaed of user switches.  Please remember the limit of the charactors to send.
 
-License
---------
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
-
 Auther
 --------
 TOKUNO, Hirokazu
